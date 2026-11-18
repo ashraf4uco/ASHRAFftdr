@@ -1,0 +1,6 @@
+{
+  "name": "Eve’s Beauty Parlour",
+  "description": "Beauty salon and grooming studio in Chinapatty, Makum Road, Tinsukia, Assam, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
